@@ -72,6 +72,4 @@ This project does not have any external dependencies beyond the standard Java li
 
 ## License
 
-This project is provided under the MIT License. You can find more details in the `LICENSE` file.
 
-Feel free to modify and extend this project for your own purposes.
